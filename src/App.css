@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+input {
+  margin: 1rem;
+  width: 4rem;
+}
+
+button {
+  border: none;
+  border-radius: 50%;
+  padding: 0.5rem;
+  color: black;
+  background-color: white;
+}
+
+label {
+  color: palegoldenrod;
+}
